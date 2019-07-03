@@ -41,9 +41,6 @@
 var cnames_active = {
   "": "js-org.github.io",
   "bad-automatic-contact": "js-org-cleanup.github.io/test-repo-2",
-  "bad-automatic-fail": "js-org-cleanup.github.io/test-repo-3",
-  "bad-external-target": "custom-target.test.com",
-  "bad-non-existent-repo": "js-org-cleanup.github.io",
   "macosnotif": "mattipv4.github.io/macOSNotifJS"
   /*
   * please don't add your subdomain records down here!
